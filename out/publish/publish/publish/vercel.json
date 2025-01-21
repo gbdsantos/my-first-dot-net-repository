@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "path/to/your/project.csproj",
+      "use": "@vercel/dotnet"
+    }
+  ]
+}

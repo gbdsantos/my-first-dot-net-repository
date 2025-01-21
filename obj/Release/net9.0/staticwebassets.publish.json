@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rZ2a0JiRoZjevqTlxOdfPW9BHgXRAWl0YeuPEdPBYJs=",
+  "Source": "GitHubBlipAPI",
+  "BasePath": "_content/GitHubBlipAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

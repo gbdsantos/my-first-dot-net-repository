@@ -1,0 +1,10 @@
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\GitHubBlipAPI.exe
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\appsettings.json
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\GitHubBlipAPI.dll
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\GitHubBlipAPI.deps.json
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\GitHubBlipAPI.runtimeconfig.json
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\GitHubBlipAPI.pdb
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\Users\RILTON\Desktop\Projetos\TesteVaga pl\test\GitHubBlipAPI\bin\Release\net9.0\publish\Newtonsoft.Json.dll
